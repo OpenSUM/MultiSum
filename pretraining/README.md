@@ -6,7 +6,7 @@
 
 ### Data preparation For pretraining 
 
-You can download pretraining data [here]().Then run`gpt_2enc.sh` and `preprocess_fairseq.sh` in sequence.
+You can download pretraining data [here](https://drive.google.com/drive/folders/1n16I2qvU0-aYHWh4RwtlmUh2LMPn9e6D?usp=sharing).Then run`gpt_2enc.sh` and `preprocess_fairseq.sh` in sequence.
 
 ### Start to pretrain
 

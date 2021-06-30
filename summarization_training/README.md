@@ -6,7 +6,7 @@
 
 #### Option 1:download the processed data
 
-Download and unzip the data from [here]()
+Download and unzip the data from [here](https://drive.google.com/drive/folders/1lpdbh4p8f4kjgTnGU0H82TjIMohdLTIL?usp=sharing)
 
 #### Option 2:process the data yourself
 
@@ -30,7 +30,7 @@ run run.py with given parameters,value of parameters can be set in bert_config.j
 
 You can initialize model parameters from different checkpoints(e.g.:roberta base ,pretrained...) by using    `--init_checkpoint --roberta_checkpoint --pretrained_checkpoint`.
 
-If you choose to use roberta base as your initializing checkpoint,you can download it [here]()
+If you choose to use roberta base as your initializing checkpoint,you can download it [here](https://drive.google.com/drive/folders/19pVqGV_-nWeievo4_dqlY0Efa6jSWqL7?usp=sharing)
 
 e.g.:
 
